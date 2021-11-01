@@ -1,0 +1,6 @@
+questionId,question,questionType
+1,What is your full name?,textbox
+2,What is your favourite colour?,checkbox
+3,What is your most familiar coding language?,radio
+4,Which of the languages below can you speak?,checkbox
+5,Would you pay $5 for a resume review?,radio
